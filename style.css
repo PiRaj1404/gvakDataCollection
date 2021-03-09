@@ -1,0 +1,69 @@
+
+            table, th, td {
+        border: 1px solid black;
+  border-collapse: collapse;
+            
+    }
+       
+      
+        body {
+          background-color: #e5dcec;
+        }
+        
+        #myForm,#myForm1,#myForm2{
+          background-color: #ffffff;
+          margin: 50px auto;
+          font-family: Raleway;
+          padding: 10px;
+          width: 80%;
+
+        }
+       
+        
+        .tab {
+          display: none;
+        }
+        
+        button {
+          background-color: #6d176a;
+          color: #ffffff;
+          border: none;
+          padding: 10px 20px;
+          font-size: 17px;
+          font-family: Raleway;
+          cursor: pointer;
+        }
+        
+        button:hover {
+          opacity: 0.8;
+        }
+        
+        #prevBtn {
+          background-color: #ad5de2;
+        }
+
+        img{
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    margin-top: 10px;
+   text-align: center;
+   
+    
+  }
+  
+  .lote{
+   color:#000624; 
+   font-size: 150%; 
+   font-family:sans-serif; 
+   text-align: center;
+  }
+
+  
+.image{
+  text-align: center;
+}
+
+.Hin{
+  background-color: red;
+}
